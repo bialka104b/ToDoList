@@ -1,0 +1,20 @@
+.edit-event {
+    background-color: chocolate;
+    padding: 25px;
+    font-size: 1.6rem;
+}
+label {
+    width: 250px;
+}
+input {
+    float:right;
+    width: 250px;
+}
+button {
+    width:100%;
+    border:2px solid white;
+    background-color: chocolate;
+    color: white;
+    font-size: 1.6rem;
+    margin-top: 10px;
+}

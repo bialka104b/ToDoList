@@ -1,0 +1,9 @@
+#root, .app {
+    height: 100%;
+}
+.app {
+    background-color: #3181f2;
+    color:white;
+    max-width:500px;
+    margin:0 auto;
+}
