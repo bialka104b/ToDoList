@@ -1,3 +1,6 @@
+W projekcie użyto technologi: Javascript (react, JSX, ES6), CSS, dodatkowe biblioteki (uniqid)
+Projekt znajduje się w trakcie budowy.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
