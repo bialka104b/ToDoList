@@ -1,4 +1,4 @@
-#ToDoList REACT
+# ToDoList REACT
 
 The project used the following technologies: Javascript (react, JSX, ES6), CSS, additional libraries (uniqid) The project is under construction. / (PL)
 W projekcie użyto technologi: Javascript (react, JSX, ES6), CSS, dodatkowe biblioteki (uniqid)
